@@ -1,0 +1,4 @@
+#!/bin/sh
+git clone https://github.com/gyfsd/Minecraft-pi-cheat-client.git
+cd Minecraft-pi-cheat-client
+python3 -m py_compile ./mcoi_hack.py
